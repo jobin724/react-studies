@@ -1,15 +1,19 @@
-import Body from "./components/body"
-import Header from "./components/Header/header"
-import Footer from './components/footer'
+import  './index.css'
+import Header from './components/Header'
 
-const App = () => {
-    return(
-        <div>
-            <Header/>
-            <Body/> 
-            <Footer />
-        </div>
-    )
+function App(){
+  const data='kjdhdgddf'
+  return(
+   
+    <div>
+      <Header/>
+      <p className='k'>first headding{data}</p>
+      
+
+    </div>
+    
+  )
 }
-
 export default App
+ 
+

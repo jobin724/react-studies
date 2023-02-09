@@ -1,4 +1,14 @@
-body {
-  margin: 0;
-  box-sizing: border-box;
+body{
+    margin: 0%;
+    background-color:indigo;
+}
+.k{
+    margin-top: 0%;
+    color: rgb(14, 14, 175);
+    background-color: aqua;
+}
+.hello{
+    padding-left: 20px;
+    color: black;
+    background-color: brown;
 }
